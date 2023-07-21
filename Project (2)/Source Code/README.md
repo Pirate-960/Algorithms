@@ -3,7 +3,7 @@ How To Run The Code:
 gcc -o code code.c
 Second, run the program as the following:
 code input.txt
-which the "input.txt" represents the input file."
+which the "input.txt" represents the input file."                                                                       
 ============***Half-TSP***============
 Enter Input File Name(Input.txt):
 
