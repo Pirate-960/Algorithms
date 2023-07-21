@@ -4,7 +4,7 @@ gcc -o code code.c
 Second, run the program as the following:
 code input.txt
 which the "input.txt" represents the input file."                                                                       
-============***Half-TSP***============
+============***Half-TSP***============                                                                                         
 Enter Input File Name(Input.txt):
 
 sample input file :  test-input-1.txt
