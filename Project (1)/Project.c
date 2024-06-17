@@ -299,6 +299,7 @@ void Horspool_Algorithm(char *text, char *pattern) {
 }
 //----------------------------------------------------------------------------------------//
 // Boyer-Moore algorithm
+//----------------------------------------------------------------------------------------//
 // preprocess_bad_character -> generate bad character table
 void preprocess_bad_character(const char *pattern, int pattern_len, int bad_char[MAX_CHAR]) {
     // Initialize the bad character array with -1
