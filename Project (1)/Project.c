@@ -183,6 +183,7 @@ void insert_mark_tag(const char *outPutS, const char *text, const char *pattern,
 }
 //----------------------------------------------------------------------------------------//
 // Brute-force string matching
+//----------------------------------------------------------------------------------------//
 int brute_force(const char *text, const char *pattern, int *comparisons) {
     int text_len = strlen(text);
     int pattern_len = strlen(pattern);
