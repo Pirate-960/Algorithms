@@ -43,7 +43,7 @@ void optimize_tour(int n, long long distances[]){
 						changed_distance = dist(selected[j - 1], selected[i]) + dist(selected[i], selected[(j + 1) % n]) + dist(selected[n - 1], selected[j]) + dist(selected[j % n], selected[(i + 1) % n]);   // new i-1,j,i+1 + j-1,i,j+1 path lenght
                     } else {    // else selected[i-1] is ok
                     	// Calculate the changed distance with selected[i-1]
-                        changed_distance = dist(selected[j - 1], selected[i]) + dist(selected[i], selected[(j + 1) % n]) + dist(selected[i - 1], selected[j]) + dist(selected[j % n], selected[(i + 1) % n]);   // new i-1,j,i+1 + j-1,i,j+1 path lenght
+                        changed_distance = dist(selected[j - 1], selected[i]) + dist(selected[i], selected[(j + 1) % n]) + dist(selected[i - 1], selected[j]) + dist(selected[j % n], selected[(i + 1) % n]);   // new i-1,j,i+1 + j-1,i,j+1 path length
                     }
                 } else {    // if j = i+1, then the changed distance have to be calculated like this for to be comparable with first_distance correctly.
                     if (i == 0) {   // same thing: selected[n-1] vs selected[i-1]
