@@ -221,5 +221,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <br>
   🌟 Star us on GitHub — it helps!
 </p>
+<p align="center">
+  <img src="https://via.placeholder.com/800x100.png?text=Thank+You+for+Exploring+Our+Project!" alt="Description of image">
+</p>
 
 <div class="align=center">![Footer](https://via.placeholder.com/800x100.png?text=Thank+You+for+Exploring+Our+Project!)</div>
