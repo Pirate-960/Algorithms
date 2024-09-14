@@ -222,4 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   🌟 Star us on GitHub — it helps!
 </p>
 
-![Footer](https://via.placeholder.com/800x100.png?text=Thank+You+for+Exploring+Our+Project!)
+<div class="align=center">![Footer](https://via.placeholder.com/800x100.png?text=Thank+You+for+Exploring+Our+Project!)</div>
