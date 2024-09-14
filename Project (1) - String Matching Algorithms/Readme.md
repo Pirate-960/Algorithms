@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by Your Team Name
+  Made with ❤️
   <br>
   🌟 Star us on GitHub — it helps!
 </p>
