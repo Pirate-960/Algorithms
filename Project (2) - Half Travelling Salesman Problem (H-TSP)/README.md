@@ -540,3 +540,6 @@ Happy Optimizing! May your tours be short, your solutions optimal, and your algo
   <br>
   🌟 Star us on GitHub — it helps!
 </p>
+<p align="center">
+  <img src="https://via.placeholder.com/800x100.png?text=Thank+You+for+Exploring+Our+Project!" alt="Description of image">
+</p>
