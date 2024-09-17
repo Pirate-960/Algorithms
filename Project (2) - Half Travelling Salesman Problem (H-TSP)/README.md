@@ -8,6 +8,45 @@
 
 Welcome to our cutting-edge Half Traveling Salesman Problem (H-TSP) solver! This project represents a significant advancement in combinatorial optimization, tackling a challenging variation of the classic Traveling Salesman Problem.
 
+The H-TSP involves finding the shortest possible route that visits a subset of cities and returns to the starting point, with the constraint that the route must be divided into two segments: one from the starting point to a designated "halfway" point, and another from the halfway point back to the starting point.
+
+## 📚 Table of Contents
+
+- [🌍🚀 Half Traveling Salesman Problem (H-TSP) Solver](#-half-traveling-salesman-problem-h-tsp-solver)
+  - [🌟 Project Overview](#-project-overview)
+  - [📚 Table of Contents](#-table-of-contents)
+    - [🎯 The Challenge: H-TSP Defined](#-the-challenge-h-tsp-defined)
+    - [🌐 Real-World Applications](#-real-world-applications)
+  - [🚀 Features That Set Us Apart](#-features-that-set-us-apart)
+  - [🛠️ Getting Started: Your Journey Begins Here](#️-getting-started-your-journey-begins-here)
+    - [Prerequisites: Gear Up!](#prerequisites-gear-up)
+    - [Compilation: Forging Your Tool](#compilation-forging-your-tool)
+      - [The GCC Way:](#the-gcc-way)
+      - [The Make Way (if available):](#the-make-way-if-available)
+  - [🏃‍♂️ Usage: Solving H-TSP Like a Pro](#️-usage-solving-h-tsp-like-a-pro)
+    - [🔍 Detailed Running Instructions](#-detailed-running-instructions)
+  - [🧪 Quality Assurance: Verifying Your Solution](#-quality-assurance-verifying-your-solution)
+  - [🧠 Under the Hood: Our Algorithms](#-under-the-hood-our-algorithms)
+    - [1. Project.c: The Optimized Powerhouse](#1-projectc-the-optimized-powerhouse)
+      - [Algorithm Breakdown:](#algorithm-breakdown)
+      - [Key Strengths:](#key-strengths)
+      - [Time Complexity:](#time-complexity)
+    - [2. Crazy\_Brute.c: The Experimental Explorer](#2-crazy_brutec-the-experimental-explorer)
+      - [Algorithm Highlights:](#algorithm-highlights)
+      - [Key Strengths:](#key-strengths-1)
+      - [Time Complexity:](#time-complexity-1)
+  - [📊 Solution Comparison: Project.c vs Crazy\_Brute.c](#-solution-comparison-projectc-vs-crazy_brutec)
+    - [Advantages and Disadvantages](#advantages-and-disadvantages)
+      - [Project.c (Optimized Solution)](#projectc-optimized-solution)
+      - [Crazy\_Brute.c (Experimental Solution)](#crazy_brutec-experimental-solution)
+    - [When to Use Each Solution](#when-to-use-each-solution)
+  - [🔬 Future Horizons: What's Next?](#-future-horizons-whats-next)
+  - [🤝 Join the Quest: How to Contribute](#-join-the-quest-how-to-contribute)
+  - [📜 License](#-license)
+  - [🙏 Acknowledgements](#-acknowledgements)
+  - [📚 Dive Deeper: Further Reading](#-dive-deeper-further-reading)
+  - [📬 Connect With Us](#-connect-with-us)
+
 ### 🎯 The Challenge: H-TSP Defined
 
 The Half Traveling Salesman Problem (H-TSP) is a fascinating variant of the well-known Traveling Salesman Problem. Given a map of `n` cities, your mission is to find the optimal tour that:
