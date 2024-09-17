@@ -1,6 +1,8 @@
 # 🌍🚀 Half Traveling Salesman Problem (H-TSP) Solver
 
-![H-TSP Banner](https://via.placeholder.com/800x200.png?text=H-TSP+Solver:+Optimize+Your+Journey!)
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=H-TSP+Solver:+Optimize+Your+Journey" alt="H-TSP Banner">
+</p>
 
 ## 🌟 Project Overview
 
