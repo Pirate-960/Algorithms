@@ -420,6 +420,8 @@ Embark on your evolutionary journey with our Chess Piece Placement Genetic Algor
 
 Remember, in the world of genetic algorithms, every run is an opportunity for a breakthrough, and every modification could lead to the next evolutionary leap. Happy evolving!
 
+---
+
 <p align="center">
   Made with ❤️
   <br>
