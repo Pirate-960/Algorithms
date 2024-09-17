@@ -454,7 +454,7 @@ To fully appreciate the depth of the Traveling Salesman Problem and its variants
 We're excited to hear from you! Whether you have questions, ideas, or just want to discuss optimization techniques, don't hesitate to reach out:
 
 - �issues GitHub Issues: For bug reports, feature requests, and code-related discussions
-- 📧 Email: [a.a.zahran.960@gmail.com](mailto:a.a.zahran.960@gmail.com) for direct communication
+- 📧 Email: [a.a.zahran.960@gmail.com](mailto:Pirate-960) for direct communication
 
 Join our community of optimization enthusiasts and help push the boundaries of what's possible in combinatorial optimization!
 
