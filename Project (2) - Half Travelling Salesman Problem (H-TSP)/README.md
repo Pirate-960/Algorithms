@@ -4,11 +4,15 @@
   <img src="https://via.placeholder.com/800x200.png?text=H-TSP+Solver:+Optimize+Your+Journey" alt="H-TSP Banner">
 </p>
 
+---
+
 ## 🌟 Project Overview
 
 Welcome to our cutting-edge Half Traveling Salesman Problem (H-TSP) solver! This project represents a significant advancement in combinatorial optimization, tackling a challenging variation of the classic Traveling Salesman Problem.
 
 The H-TSP involves finding the shortest possible route that visits a subset of cities and returns to the starting point, with the constraint that the route must be divided into two segments: one from the starting point to a designated "halfway" point, and another from the halfway point back to the starting point.
+
+---
 
 ## 📚 Table of Contents
 
@@ -47,6 +51,8 @@ The H-TSP involves finding the shortest possible route that visits a subset of c
   - [📚 Dive Deeper: Further Reading](#-dive-deeper-further-reading)
   - [📬 Connect With Us](#-connect-with-us)
 
+---
+
 ### 🎯 The Challenge: H-TSP Defined
 
 The Half Traveling Salesman Problem (H-TSP) is a fascinating variant of the well-known Traveling Salesman Problem. Given a map of `n` cities, your mission is to find the optimal tour that:
@@ -59,6 +65,8 @@ This problem combines the complexity of route optimization with the additional c
 
 > 💡 **Deep Dive**: The H-TSP is classified as NP-hard, placing it in a category of problems for which no known polynomial-time algorithm exists. This classification implies that as the number of cities increases, the computational resources required to find an optimal solution grow exponentially. Our solver employs advanced heuristics and optimization techniques to find near-optimal solutions efficiently, even for large instances.
 
+---
+
 ### 🌐 Real-World Applications
 
 The H-TSP and its solutions have wide-ranging applications, including:
@@ -70,6 +78,8 @@ The H-TSP and its solutions have wide-ranging applications, including:
 5. 🖨️ Circuit Board Drilling in Manufacturing
 
 By solving the H-TSP efficiently, we open doors to improvements in these fields and many others.
+
+---
 
 ## 🚀 Features That Set Us Apart
 
@@ -107,6 +117,8 @@ Our H-TSP solver is packed with features designed to tackle this complex problem
 7. 🔧 **Modular Design**:
    - Clearly separated modules for different algorithm components
    - Easily extensible for testing new heuristics or optimization techniques
+
+---
 
 ## 🛠️ Getting Started: Your Journey Begins Here
 
@@ -151,6 +163,8 @@ make htsp_solver
 ```
 
 This command will compile the solver with predefined optimization flags.
+
+---
 
 ## 🏃‍♂️ Usage: Solving H-TSP Like a Pro
 
@@ -224,6 +238,8 @@ This command will compile the solver with predefined optimization flags.
 
 ***===================================================***
 
+---
+
 ## 🧪 Quality Assurance: Verifying Your Solution
 
 Our `half_tsp_verifier.py` script ensures the integrity and correctness of your solution:
@@ -241,6 +257,8 @@ The verifier performs the following checks:
 5. 🔁 **Cycle Completeness**: Confirms the tour starts and ends at the same city
 
 If any check fails, the verifier will provide detailed error messages to help identify the issue.
+
+---
 
 ## 🧠 Under the Hood: Our Algorithms
 
@@ -302,6 +320,8 @@ We offer two powerful implementations, each with its unique approach to conqueri
 - Overall: O(n^3) in the worst case
 - May find unique solutions faster for certain problem instances
 
+---
+
 ## 📊 Solution Comparison: Project.c vs Crazy_Brute.c
 
 | Aspect | Project.c (Optimized) | Crazy_Brute.c (Experimental) |
@@ -357,6 +377,8 @@ We offer two powerful implementations, each with its unique approach to conqueri
   - Solution quality is prioritized over computation time
   - Investigating the effectiveness of novel heuristics
 
+---
+
 ## 🔬 Future Horizons: What's Next?
 
 Our H-TSP solver project is continuously evolving. Here are some exciting directions for future development:
@@ -400,6 +422,8 @@ Our H-TSP solver project is continuously evolving. Here are some exciting direct
    - Create a comprehensive benchmark suite for H-TSP instances
    - Develop statistical analysis tools for solution quality assessment
    - Implement automated parameter tuning using irace or similar frameworks
+
+---
 
 ## 🤝 Join the Quest: How to Contribute
 
@@ -447,6 +471,8 @@ Ready to contribute? Here's how to get started:
 
 We look forward to your contributions and innovative ideas!
 
+---
+
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE). 
@@ -459,6 +485,8 @@ Key points of the MIT License:
 
 We encourage you to use, learn from, and improve this project while respecting the terms of the license.
 
+---
+
 ## 🙏 Acknowledgements
 
 Our H-TSP solver stands on the shoulders of giants. We'd like to express our gratitude to:
@@ -470,6 +498,8 @@ Our H-TSP solver stands on the shoulders of giants. We'd like to express our gra
   - Shen Lin and Brian Kernighan for their seminal 1973 paper introducing the Lin-Kernighan heuristic
 - 🖥️ The open-source community for providing robust tools and libraries that made this project possible.
 - 🧪 Our beta testers and early users who provided valuable feedback and bug reports.
+
+---
 
 ## 📚 Dive Deeper: Further Reading
 
@@ -490,6 +520,8 @@ To fully appreciate the depth of the Traveling Salesman Problem and its variants
 5. 💻 Laporte, G. (1992). The traveling salesman problem: An overview of exact and approximate algorithms. European Journal of Operational Research, 59(2), 231-247.
    - Provides a broad overview of TSP algorithms, useful for understanding the landscape of solution approaches.
 
+---
+
 ## 📬 Connect With Us
 
 We're excited to hear from you! Whether you have questions, ideas, or just want to discuss optimization techniques, don't hesitate to reach out:
@@ -500,3 +532,11 @@ We're excited to hear from you! Whether you have questions, ideas, or just want 
 Join our community of optimization enthusiasts and help push the boundaries of what's possible in combinatorial optimization!
 
 Happy Optimizing! May your tours be short, your solutions optimal, and your algorithmic journeys exciting! 🚗💨🌟🔬
+
+---
+
+<p align="center">
+  Made with ❤️
+  <br>
+  🌟 Star us on GitHub — it helps!
+</p>
