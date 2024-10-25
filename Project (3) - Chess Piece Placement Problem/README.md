@@ -1,9 +1,4 @@
 # Chess Piece Placement Genetic Algorithm: Mastering the Art of Evolutionary Optimization
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Chess+Piece+Placement+Genetic+Algorithm" alt="Chess Genetic Algorithm">
-</p>
-
 ## Table of Contents
 - [Chess Piece Placement Genetic Algorithm: Mastering the Art of Evolutionary Optimization](#chess-piece-placement-genetic-algorithm-mastering-the-art-of-evolutionary-optimization)
   - [Table of Contents](#table-of-contents)
