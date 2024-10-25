@@ -1,9 +1,5 @@
 # 🔍 Advanced String Matching Algorithms Comparison
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=String+Matching+Algorithms+Comparison" alt="Description of image">
-</p>
-
 > An in-depth exploration and comparison of Brute-force, Horspool's, and Boyer-Moore string matching algorithms.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
